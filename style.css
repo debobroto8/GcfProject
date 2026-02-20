@@ -48,7 +48,7 @@ nav ul li a{
 
 
 /* Animation */
-header:hover,.footer:hover ,.Contact:hover, .services:hover,.About:hover{
+.About:hover{
     animation: Up 1s ease forwards;
     opacity: 0;
 }
